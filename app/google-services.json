@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105636402009",
+    "project_id": "tryial-346c8",
+    "storage_bucket": "tryial-346c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105636402009:android:5665f81761361b6616f248",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginlogout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105636402009-vqo3n095gkl7l30tqrddsou4t38igd1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3axSnu5yu80v3O_LliokZrOpD3o4jFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105636402009-vqo3n095gkl7l30tqrddsou4t38igd1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
